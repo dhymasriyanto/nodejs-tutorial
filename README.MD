@@ -1,1 +1,1 @@
-# vue tutorial
+This is just a repo for documentation of my vue tutorial
