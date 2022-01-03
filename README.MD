@@ -1,1 +1,1 @@
-This is just a repo for documentation of my vue tutorial
+This is just a repo for documentation of my nodejs tutorial
