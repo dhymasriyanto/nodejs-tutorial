@@ -1,5 +1,5 @@
 // ECMASCript Module
 
 export const action = () => {
-	console.log('hello');
+	console.log('test');
 }
